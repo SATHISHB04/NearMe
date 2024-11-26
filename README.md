@@ -75,58 +75,12 @@ home.html
     </body>
 </html>
 
-lake.html
-<html>
-    <head>
-        <title>My Home Town</title>
-    </head>
-<body bg color="cyan">
-<h1 align="center">
-    <font color="red"><b>chrompet</b></font>
-</h1>
-<h3 align="center">
-    <font color="blue"><b>seebakkam lake - old lake</b></font>
-</h3>
-<hr size="3" color="red">
-<p align="justify">
-    <font face="georgia" size="5">
-        Over time, temples Sembakkam, Chennai evolved in design and
-         construction techniques, reflecting advancements in architecture, engineering, and religious beliefs. 
-         Temple worship is rich in symbolism and rituals,
-         each carrying profound spiritual significance.
-</p>
-</body>
-</html>
-
-railway.html
-<html>
-    <head>
-        <title>My Home Town</title>
-    </head>
-<body bg color="blue">
-<h1 align="center">
-    <font color="red"><b>chrompet</b></font>
-</h1>
-<h3 align="center">
-    <font color="blue"><b>Railwaystation</b></font>
-</h3>
-<hr size="3" color="red">
-<p align="justify">
-    <font face="georgia" size="5">
-         Tambaram Sanatorium railway station lies on the Madras Beach—Tambaram suburban section of the Chennai Suburban Railway,
-          which was opened to traffic on 11 May 1931.
-           The tracks were electrified on 15 November 1931.
-         The section was converted to 25 kV AC traction on 15 January 1967.
-</p>
-</body>
-</html>
-
 store.html
-html>
+<html>
     <head>
         <title>My Home Town</title>
     </head>
-<body bg color="yellow">
+<body style="background-color: yellow;">
 <h1 align="center">
     <font color="red"><b>chrompet</b></font>
 </h1>
@@ -149,7 +103,7 @@ temple.html
     <head>
         <title>My Home Town</title>
     </head>
-<body bg color="pink">
+<body style="background-color: pink;">
 <h1 align="center">
     <font color="red"><b>chrompet</b></font>
 </h1>
@@ -168,16 +122,60 @@ temple.html
 </body>
 </html>
 
+lake.html
+<html>
+    <head>
+        <title>My Home Town</title>
+    </head>
+<body style="background-color: aqua;">
+<h1 align="center">
+    <font color="red"><b>chrompet</b></font>
+</h1>
+<h3 align="center">
+    <font color="blue"><b>seebakkam lake - old lake</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+    <font face="georgia" size="5">
+        Over time, temples Sembakkam, Chennai evolved in design and
+         construction techniques, reflecting advancements in architecture, engineering, and religious beliefs. 
+         Temple worship is rich in symbolism and rituals,
+         each carrying profound spiritual significance.
+</p>
+</body>
+</html>
+
+railway.html
+<html>
+    <head>
+        <title>My Home Town</title>
+    </head>
+<body style="background-color: blueviolet;">
+<h1 align="center">
+    <font color="red"><b>chrompet</b></font>
+</h1>
+<h3 align="center">
+    <font color="blue"><b>Railwaystation</b></font>
+</h3>
+<hr size="3" color="red">
+<p align="justify">
+    <font face="georgia" size="5">
+         Tambaram Sanatorium railway station lies on the Madras Beach—Tambaram suburban section of the Chennai Suburban Railway,
+          which was opened to traffic on 11 May 1931.
+           The tracks were electrified on 15 November 1931.
+         The section was converted to 25 kV AC traction on 15 January 1967.
+</p>
+</body>
+</html>
 ```
 
 
 ## OUTPUT
 ![alt text](<Screenshot (23).png>)
-![alt text](<Screenshot (22).png>)
-![alt text](<Screenshot (21).png>)
-![alt text](<Screenshot (20).png>)
-![alt text](<Screenshot (19).png>)
-![alt text](<Screenshot (18).png>)
-
+![alt text](<Screenshot (28)-1.png>)
+![alt text](<Screenshot (27)-1.png>)
+![alt text](<Screenshot (26)-1.png>)
+![alt text](<Screenshot (25)-1.png>)
+![alt text](<Screenshot (24)-1.png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
