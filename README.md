@@ -168,14 +168,14 @@ railway.html
 </body>
 </html>
 ```
-
+)
 
 ## OUTPUT
 ![alt text](<Screenshot (23).png>)
-![alt text](<Screenshot (28)-1.png>)
-![alt text](<Screenshot (27)-1.png>)
-![alt text](<Screenshot (26)-1.png>)
-![alt text](<Screenshot (25)-1.png>)
-![alt text](<Screenshot (24)-1.png>)
+![alt text](<Screenshot (33).png>)
+![alt text](<Screenshot (34).png>)
+![alt text](<Screenshot (35).png>)
+![alt text](<Screenshot (36).png>)
+![alt text](<Screenshot (37).png>)
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
